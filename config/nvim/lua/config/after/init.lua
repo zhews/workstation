@@ -1,0 +1,8 @@
+require("config.after.autocmd")
+require("config.after.clipboard")
+require("config.after.cursor-line")
+require("config.after.keymap")
+require("config.after.line-numbers")
+require("config.after.mouse")
+require("config.after.scroll")
+require("config.after.width-line")
